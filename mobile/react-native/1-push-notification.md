@@ -9,7 +9,7 @@ syarat tambahan khusus ios: [klik disini](#khusus-ios)
 1. install `react-native-push-notification`
    | using Yarn                                                   | using npm                                                    |
    | ------------------------------------------------------------ | ------------------------------------------------------------ |
-   | <code>yarn add react-native-push-notification<br />npx pod-install</code> | <code>npm install react-native-push-notification<br />npx pod-install</code> |
+   | `yarn add react-native-push-notification && npx pod-install` | `npm install react-native-push-notification && npx pod-install` |
 
 2. edit `android/build.gradle`
 
